@@ -1,0 +1,3 @@
+= Test Post
+:published_at: 2016-07-16
+:hp-tags: Test, HubPres
