@@ -4,19 +4,19 @@
 
 This just a test post to see what HubPress can do.  I'm going to try to embed:
 	
-    -Code
+-Code
     
-    [[app-listing]]
-	[source,ruby]
-	.app.rb
-	----
-	require 'sinatra'
+[[app-listing]]
+[source,ruby]
+.app.rb
+----
+require 'sinatra'
 
-	get '/hi' do
-  		"Hello World!"
-	end
+get '/hi' do
+  "Hello World!"
+end
 	----
     
-    -Images
+-Images
     
-    -Video
+-Video
