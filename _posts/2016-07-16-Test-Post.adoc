@@ -1,3 +1,8 @@
 = Test Post
 :published_at: 2016-07-16
 :hp-tags: Test, HubPres
+
+This just a test post to see what HubPress can do.  I'm going to try to embed:
+	-Code
+    -Images
+    -Video
