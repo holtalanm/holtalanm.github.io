@@ -4,7 +4,9 @@
     "repositoryName": "holtalanm.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "disqus": "holtalanm-blog"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "ghostium"
