@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://holtalanm.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 16 Jul 2016 19:45:56 GMT</lastBuildDate><atom:link href="https://holtalanm.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Test Post]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://holtalanm.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 16 Jul 2016 19:46:39 GMT</lastBuildDate><atom:link href="https://holtalanm.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Test Post]]></title><description><![CDATA[<div class="paragraph">
 <p>This just a test post to see what HubPress can do.  I&#8217;m going to try to embed:</p>
 </div>
 <div class="paragraph">
@@ -17,8 +17,10 @@ end</code></pre>
 <div class="paragraph">
 <p>-Images</p>
 </div>
-<div class="paragraph">
-<p>image::https://cloud.githubusercontent.com/assets/7315955/16896802/e89e024e-4b63-11e6-942f-d136e2e6b911.png</p>
+<div class="imageblock">
+<div class="content">
+<img src="https://cloud.githubusercontent.com/assets/7315955/16896802/e89e024e-4b63-11e6-942f-d136e2e6b911.png" alt="Test Image">
+</div>
 </div>
 <div class="paragraph">
 <p>-Video</p>
