@@ -1,0 +1,26 @@
+= Test Post
+:published_at: 2016-07-16
+:hp-tags: Test, HubPres
+
+This just a test post to see what HubPress can do.  I'm going to try to embed:
+	
+-Code
+    
+[[app-listing]]
+[source,ruby]
+.app.rb
+----
+require 'sinatra'
+
+get '/hi' do
+  "Hello World!"
+end
+----
+    
+-Images
+
+image::https://cloud.githubusercontent.com/assets/7315955/16896802/e89e024e-4b63-11e6-942f-d136e2e6b911.png[Test Image]
+    
+-Video
+
+video::KoaGU91qJv8[youtube]
