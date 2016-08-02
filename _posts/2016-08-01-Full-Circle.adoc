@@ -1,0 +1,2 @@
+= Full Circle
+== A developers journey from Rails, to Node, to Client-side Javascript, and finally back to Rails.
