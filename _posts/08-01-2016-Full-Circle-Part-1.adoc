@@ -1,6 +1,15 @@
-= Full Circle
+= Full Circle: Part 1
 :published_at: 08-01-2016
-:hp-tags: Ruby, Rails, Nodejs, Angular, React, Ember, Phoenix
-== A developer's journey from Rails, to Node, to Client-side Javascript, and finally back to Rails.
+:hp-tags: Nodejs, Angular, Passport.js, Express.js, Mongoose
 
-Hi
+== A foray into Full-stack javascript
+
+Recently, a couple of friends, Andy and Chris, and I, had the idea to build an online advertising platform that would revolutionize the industry.  It was going to be awesome.  Okay, it probably wouldn't have revolutionized the industry, but it might have made a splash, and maybe even made a few people think about using it for their next advertising campaign.  
+
+The bottom line is this:  We needed to pick our stack.
+
+Now, I'm a java web developer by trade currently.  I have been programming for about 6 years, and throughout that time I have touched a number of languages, and also my fair share of frameworks.  But this time, I decided to go with something that hadn't tried much up until this point: Nodejs.
+
+So, we picked Nodejs.  Even if it wasn't the technology stack I was most familiar with, I was sure it would be easy to pick up considering I had been writing javascript for web applications for years.  The language was, by and large, not the problem; At least, that was what I originally though.
+
+My friends were mostly planning on being involved with the project in other aspects than the backend development; One friend would take care of project management and the business plan, while the other would be in charge of styling and making the application look good.  My CSS skills have proven to be more than inadequate for any project on a scale larger then a simple 'ToDo List' on a good day; Thankfully my friend
