@@ -6,10 +6,11 @@
 
 Recently, a couple of friends, Andy and Chris, and I, had the idea to build an online advertising platform that would revolutionize the industry.  It was going to be awesome.  Okay, it probably wouldn't have revolutionized the industry, but it might have made a splash, and maybe even made a few people think about using it for their next advertising campaign.  
 
+My friends were mostly planning on being involved with the project in other aspects than the backend development; Chris would take care of project management and the business plan, while Andy would be in charge of styling and making the application look good.  My CSS skills have proven to be more than inadequate for any project on a scale larger then a simple 'ToDo List' on a good day; Thankfully, Andy has a knack for styling and creativity.  This left the decision of a backend all up to me.
+
 The bottom line is this:  We needed to pick our stack.
 
 Now, I'm a java web developer by trade currently.  I have been programming for about 6 years, and throughout that time I have touched a number of languages, and also my fair share of frameworks.  But this time, I decided to go with something that hadn't tried much up until this point: Nodejs.
 
-So, we picked Nodejs.  Even if it wasn't the technology stack I was most familiar with, I was sure it would be easy to pick up considering I had been writing javascript for web applications for years.  The language was, by and large, not the problem; At least, that was what I originally though.
+So, we picked Nodejs.  Even if it wasn't the technology stack I was most familiar with, I was sure it would be easy to pick up considering I had been writing javascript for web applications for years.  The language was, by and large, not the problem; I thought.
 
-My friends were mostly planning on being involved with the project in other aspects than the backend development; One friend would take care of project management and the business plan, while the other would be in charge of styling and making the application look good.  My CSS skills have proven to be more than inadequate for any project on a scale larger then a simple 'ToDo List' on a good day; Thankfully my friend
