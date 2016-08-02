@@ -2,3 +2,5 @@
 :published_at: 08-01-2016
 :hp-tags: Ruby, Rails, Nodejs, Angular, React, Ember, Phoenix
 == A developer's journey from Rails, to Node, to Client-side Javascript, and finally back to Rails.
+
+Hi
