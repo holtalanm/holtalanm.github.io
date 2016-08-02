@@ -14,3 +14,9 @@ Now, I'm a java web developer by trade currently.  I have been programming for a
 
 So, we picked Nodejs.  Even if it wasn't the technology stack I was most familiar with, I was sure it would be easy to pick up considering I had been writing javascript for web applications for years.  The language was, by and large, not the problem; I thought.
 
+Nodejs has a couple of major web frameworks out that seem to haev a lot of potential: Express.js and Sails.js.  At the time, Sails hadn't gotten much traction, and its reputation was riddled with holes with every pro-Node blog post I read at the time;  That really only left Express.js for our choice of framework.
+
+Okay, Express.js and Nodejs.  Cool.  
+link:http://lmgtfy.com/?q=node+AND+express[Lets google that really quick.]
+
+I found the MEAN stack relatively quick.
