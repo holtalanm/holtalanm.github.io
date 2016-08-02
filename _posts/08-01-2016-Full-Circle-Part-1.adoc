@@ -19,4 +19,4 @@ Nodejs has a couple of major web frameworks out that seem to haev a lot of poten
 Okay, Express.js and Nodejs.  Cool.  
 link:http://lmgtfy.com/?q=node+AND+express[Lets google that really quick.]
 
-I found the MEAN stack relatively quick.
+I found the MEAN stack relatively quick, which seemed like the most widely-accepted stakc of tools and libraries used with javascript on the server for web applications.
